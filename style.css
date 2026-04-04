@@ -1,0 +1,43 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: blue;
+}
+
+body{
+    background-color: rgb(254, 219, 219);
+}
+#tituloderechos{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(254, 219, 219);
+}
+.estiloespecial{
+    color: rgb(193, 1, 1);
+    font-size: 30px;
+}
+header{
+    background-color: rgb(254, 219, 219);
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid;
+    border-radius: 30px;
+}
+footer{
+    background-color: rgb(254, 219, 219);
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid;
+    border-radius: 30px;
+}
+#fotoviajar{
+    margin: 20px;
+    border: 2px solid;
+    width: 350px;
+    height: auto;
+}
+#infografia{
+    margin:20px;
+    border: 2px solid;
+    width: 350px;
+    height: auto;
+}
